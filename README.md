@@ -27,4 +27,4 @@ El algoritmo de Karatsuba reduce la complejidad temporal de la multiplicación t
 
 ### Pruebas Unitarias
 Para validar el correcto funcionamiento con números de 20, 50 y 100 dígitos:
-```bash
+
