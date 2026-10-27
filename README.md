@@ -28,3 +28,28 @@ El algoritmo de Karatsuba reduce la complejidad temporal de la multiplicación t
 ### Pruebas Unitarias
 Para validar el correcto funcionamiento con números de 20, 50 y 100 dígitos:
 
+--- Pruebas para 20 Dígitos ---
+Resultado correcto: Sí (Verificado)
+Tiempo Karatsuba : 0.000050 segundos
+Tiempo Nativo    : 0.000000 segundos
+
+--- Pruebas para 50 Dígitos ---
+Resultado correcto: Sí (Verificado)
+Tiempo Karatsuba : 0.000181 segundos
+Tiempo Nativo    : 0.000000 segundos
+
+--- Pruebas para 100 Dígitos ---
+Resultado correcto: Sí (Verificado)
+Tiempo Karatsuba : 0.000445 segundos
+Tiempo Nativo    : 0.000000 segundos
+
+--- Pruebas para 500 Dígitos ---
+Resultado correcto: Sí (Verificado)
+Tiempo Karatsuba : 0.005574 segundos
+Tiempo Nativo    : 0.000002 segundos
+
+--- Pruebas para 1000 Dígitos ---
+Resultado correcto: Sí (Verificado)
+Tiempo Karatsuba : 0.016986 segundos
+Tiempo Nativo    : 0.000006 segundos
+
